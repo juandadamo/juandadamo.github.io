@@ -22,8 +22,8 @@ title: Juan D'Adamo
 email: jdadamo@fi.uba.ar
 description: >- # this means to ignore newlines until "baseurl:"
   Hola 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/myblog" # the subpath of your site, e.g. /blog
+url: "https://github.com/juandadamo/juandadamo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JuanDAdamo
 github_username:  juandadamo
 
