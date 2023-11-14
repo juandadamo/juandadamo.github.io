@@ -14,7 +14,11 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
-gem "minimal-mistakes-jekyll"
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+#gem "minimal-mistakes-jekyll"
 #gem "remote_theme:mmistakes/minimal-mistakes"
 
 #gem "github-pages"
