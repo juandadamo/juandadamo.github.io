@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Juan D'Adamo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Professor. Researcher"
   location         : "Buenos Aires, Argentina"
   email            : "jdadamo@fi.uba.ar"
@@ -153,6 +153,10 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
 
 # Reading Files
 include:
