@@ -16,9 +16,8 @@ source "https://rubygems.org"
 # gem "jekyll"
 source "https://rubygems.org"
 
-#gem "github-pages", group: :jekyll_plugins
-#gem "jekyll-include-cache", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
 #gem "minimal-mistakes-jekyll"
 #gem "remote_theme:mmistakes/minimal-mistakes"
 
@@ -28,7 +27,6 @@ gem "minimal-mistakes-jekyll"
 #   gem "jekyll-sitemap"
 #   gem "jekyll-gist"
 gem "jekyll-feed"
-gem "jekyll-scholar"
 #   gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
