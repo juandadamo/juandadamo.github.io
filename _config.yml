@@ -93,7 +93,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : Person
   name                   : JuanDAdamo
-  
+
   links: # An array of links to social media profiles
 
 # Analytics
