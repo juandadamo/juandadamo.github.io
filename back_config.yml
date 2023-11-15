@@ -9,8 +9,8 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-theme                  : "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Juan D'Adamo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "J. D'Adamo"
+name                     : "Your Name"
 description              : "CONICET / UBA"
 url                      : "https://juandadamo.github.io"
 # your site e.g. "https://mmistakes.github.io"
@@ -153,26 +153,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-
-# BibTex Citation plugin
-citation:
-    citation_style: apa
-    citation_locale: en
-scholar:
-  style: apa
-  locale: en
-  repository: pdfs
-  sort_by: year
-  order: descending
-  bibliography_template: bibtex
-  source: ./_bibliography
-  bibliography: biblio_jd.bib
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  #details_link:   Details
-
-  query: "@*"
 collections:
   publications:
     output: true
@@ -251,7 +231,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-scholar
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
