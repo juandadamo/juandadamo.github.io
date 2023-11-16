@@ -1,8 +1,6 @@
 ---
 title: "Research"
-excerpt: "Interests"
 layout: default
-toc: true
 ---
 |-----------------------|-------|
 | **Fluid Structure Interactions**:  | <video width="480" height="320" autoplay loop controls="controls"><source src='./flexible_flap.mp4' type="video/mp4"></video>|
