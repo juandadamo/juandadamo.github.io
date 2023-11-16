@@ -3,7 +3,6 @@ title: "Publications"
 layout: publications
 ---
 
-
 # Publications
 ## Articles
 <p style="font-family:Papyrus; font-size:1em;text-align-last: left;">
