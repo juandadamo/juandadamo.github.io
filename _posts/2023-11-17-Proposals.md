@@ -1,6 +1,5 @@
 ---
-excrpts: Paper BB
-title: Proposals
+excrpts: Proposals
 ---
 
 ## Stages at LFD / IRL
