@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: publications
+layout: default
 ---
 
 # Publications
