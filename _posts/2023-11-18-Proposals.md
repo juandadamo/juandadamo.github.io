@@ -3,7 +3,7 @@ excrpts: Paper BB
 title: Proposals
 ---
 
-Stages at LFD / IRL
+## Stages at LFD / IRL
 
 - Drag Reduction in wakes through flexible plates.
 
