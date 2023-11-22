@@ -5,6 +5,7 @@ layout: posts
 ![](/assets/images/encabezado_naval.png)
 <p align="center">
 <img src="/assets/images/encabezado_canal.png" alt="Canal" style=" width:30%;"/></p>
+### Experimental determination of the roll damping coefficient in fishing vessels
 #### Director: Roberto Sosa
 #### Co-Director: Juan D'Adamo
 The rotational motion of a ship around its longitudinal axis (roll or balance) can be considered as a dynamic system. The energy and state of this system are defined by the roll angle, angular velocity and acceleration. The roll characteristics are determined by the shape of the ship, the mass distribution and the motion of the surrounding water. When an energy source (in the form of wind, waves, or currents) is applied to the dynamic system, the amplitude of the rolling motion increases. The opposite effect of energy loss that reduces the amplitude of the motion is known as roll damping and is caused by various flow effects: wave radiation, viscous friction, vortex shedding, lift effects, etc. In order to predict or prevent large accelerations and roll angles, it is important to understand the physical principles that govern roll motion and, in particular, its damping. In fact, roll damping is a key factor in correctly predicting a ship's behavior at sea.
