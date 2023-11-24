@@ -9,8 +9,7 @@ layout: posts
 Drag forces in wake flow contribute to a large part of energy consumption in many
 industrial applications, particularly on transport. Strategies in flow control need solid
 knowledge on the physical mechanisms that characterizes wake flows. On one hand,
-active control involve the introduction of energy (e.g. mobile parts, blowing, suc-
-tion, ldots ) in a flow while passive control introduce modifications by changing the
+active control involve the introduction of energy (e.g. mobile parts, blowing, suction, $\ldots$ ) in a flow while passive control introduce modifications by changing the
 geometry, material, surface termination, etc.
 Wake flows are generally describes by the well known Bénard Von Kármán (BvK)
 instability, an alternate vortex street pattern. We have worked extensively on the
